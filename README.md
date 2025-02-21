@@ -14,5 +14,5 @@ on:
 
 jobs:
   tag:
-    uses: secondlife/update-major-tag-workflow/.github/workflows/update-major-tag.yaml@v1
+    uses: AlchemyViewer/update-major-tag-workflow/.github/workflows/update-major-tag.yaml@v1
 ```
